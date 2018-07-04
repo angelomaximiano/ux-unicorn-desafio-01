@@ -14,7 +14,7 @@ A ideia desse primeiro desafio é montar o template de páginas do Hubspot criad
 - [Mobile](https://zpl.io/2j4xW6O)
 - [Mobile menu aberto](https://zpl.io/29ZRKAe)
 
-## Familiarizado com linha de comamndo?
+## Familiarizado com linha de comando?
 ⚠️ **ITEM TOTALMENTE OPCIONAL** ️⚠️
 Caso você saiba o básico de linha de comando, foi configurado para esse projeto o **Browsersync**, que basicamente faz o reload da página toda vez que você altera algo no projeto.
 
