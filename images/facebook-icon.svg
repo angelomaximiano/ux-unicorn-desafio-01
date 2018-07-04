@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="15px" viewBox="0 0 8 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>facebook-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ux-unicorn_desafio-01_desktop" transform="translate(-1128.000000, -847.000000)" fill="#999999">
+            <g id="Socials" transform="translate(1116.000000, 838.000000)">
+                <g id="Group-16" transform="translate(12.000000, 8.000000)">
+                    <path d="M5.19264371,16 L5.19264371,9.1578355 L7.55134786,9.1578355 L7.904477,6.49127476 L5.19264371,6.49127476 L5.19264371,4.78879356 C5.19264371,4.016762 5.41278852,3.49059951 6.54981813,3.49059951 L8,3.49000371 L8,1.10506037 C7.74912466,1.07262207 6.88832988,1 5.88686814,1 C3.79610429,1 2.36468709,2.24265173 2.36468709,4.52478551 L2.36468709,6.49127476 L0,6.49127476 L0,9.1578355 L2.36468709,9.1578355 L2.36468709,16 L5.19264371,16 Z" id="facebook-icon"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
