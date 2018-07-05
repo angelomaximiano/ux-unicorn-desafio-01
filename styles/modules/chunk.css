@@ -1,0 +1,20 @@
+.chunkcall {
+  font-size: calc(1.4vw + 22px);
+  font-weight: 800;
+  display: inline-block;
+
+}
+
+h2 {
+  color: var(--aluminun);
+  font-weight: 400;
+}
+
+.chunk {
+  display: inline-block;
+  max-width: 900px;
+  padding-left: 10vw;
+  padding-right: 10vw;
+  padding-top: 30vh;
+}
+
