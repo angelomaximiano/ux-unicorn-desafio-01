@@ -1,8 +1,7 @@
-.chunkcall {
-  font-size: calc(1.4vw + 22px);
-  font-weight: 800;
-  display: inline-block;
 
+.cheader {
+  font-size: calc(1.2vw + 17.3px);
+  font-weight: 800;
 }
 
 h2 {
@@ -11,10 +10,24 @@ h2 {
 }
 
 .chunk {
-  display: inline-block;
-  max-width: 900px;
+  display: flex;
   padding-left: 10vw;
   padding-right: 10vw;
   padding-top: 30vh;
 }
 
+.chunkimg {
+  flex: 1;
+}
+
+.chunktext {
+  flex: 1;
+  padding-right: 10vw;
+}
+
+
+.heroimage {
+  max-width: 570px;
+  width: 100%;
+  height: auto;
+}
